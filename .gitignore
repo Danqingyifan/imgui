@@ -67,8 +67,6 @@ examples/example_sdl2_sdlrenderer/example_sdl2_sdlrenderer
 # Directories
 bin/
 bin-intermediate/
-/bin
-/bin-intermediate
 
  # Files
 Makefile 
@@ -77,6 +75,3 @@ Makefile
 *.sln
 *.vcxproj*
 
-*.vcxproj
-
-/bin/Debug-windows-x86_64
