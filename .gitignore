@@ -77,3 +77,6 @@ Makefile
 *.sln
 *.vcxproj*
 
+*.vcxproj
+
+/bin/Debug-windows-x86_64
